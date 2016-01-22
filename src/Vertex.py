@@ -18,7 +18,7 @@ class Vertex:
 
 	"""
 
-	def __init__(self, index, name=none, obj=none):
+	def __init__(self, index, name=None, obj=None):
 		self.index = index
 		self.name = name
 		self.obj = obj
